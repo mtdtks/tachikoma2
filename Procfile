@@ -1,0 +1,1 @@
+web: bin/hubot -a cybozulive -n tachikoma --alias タチコマ
